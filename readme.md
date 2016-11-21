@@ -1,4 +1,5 @@
 # Model of a Roman colossal foot
+![Rotating gif of foot](https://raw.githubusercontent.com/BritishMuseumDH/colossalFoot/master/colossalFoot.gif "Rotating gif")
 
 This folder contains images, masks and files to recreate a 3D model of the Colossal foot statue fragment found in the Enlightenment Gallery of the @britishmuseum.
 

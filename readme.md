@@ -1,3 +1,5 @@
+ [![DOI](https://zenodo.org/badge/74358528.svg)](https://zenodo.org/badge/latestdoi/74358528) [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335)
+
 # Model of a Roman colossal foot
 ![Rotating gif of foot](https://raw.githubusercontent.com/BritishMuseumDH/colossalFoot/master/colossalFoot.gif "Rotating gif")
 
@@ -15,10 +17,6 @@ Height: 48.26 centimetres Length: 88.9 centimetres
 
 # License
 The contents of this repository are licensed under CC BY-NC-SA. 
-
-# DOI
-
-[![DOI](https://zenodo.org/badge/74358528.svg)](https://zenodo.org/badge/latestdoi/74358528)
 
 # Credits
 
